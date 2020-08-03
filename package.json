@@ -10,9 +10,8 @@
     "clean": "rd /q /s dist",
     "deploy": "gh-pages -b gh-pages -d dist",
     "predeploy": "npm run build",
-    "build-prod": "parcel build src/index.html",
-    "build": "parcel build src/index.html --public-url ./",
-    "start": "parcel src/index.html --public-url ./"
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html"
   },
   "homepage": "./",
   "dependencies": {
