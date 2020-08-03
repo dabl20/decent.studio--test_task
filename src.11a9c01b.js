@@ -23,4 +23,4 @@ var c=arguments[3];function l(c){return(l="function"==typeof Symbol&&"symbol"==t
 },{"./images\\logo.png":[["logo.1e67c97e.png","SPDy"],"SPDy"]}],"Focm":[function(require,module,exports) {
 "use strict";require("bootstrap"),require("bootstrap/dist/css/bootstrap.min.css"),require("@fortawesome/fontawesome-free/js/all.min.js"),require("./style.css");
 },{"bootstrap":"BQpi","bootstrap/dist/css/bootstrap.min.css":"y3A0","@fortawesome/fontawesome-free/js/all.min.js":"fdCX","./style.css":"iMte"}]},{},["Focm"], null)
-//# sourceMappingURL=src.1a5b468f.js.map
+//# sourceMappingURL=/src.11a9c01b.js.map
